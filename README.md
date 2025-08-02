@@ -1,20 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ganesh%20Chavhan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=50" />
+  
+# 👋 Hey there! I'm **Ganesh Chavhan**
+
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-hRxB2aU5fddgU5WdLaBSaSiObLbZ91.png" alt="Ganesh Chavhan" width="120" height="120" style="border-radius: 50%; border: 3px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);"/>
 </div>
 
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-hRxB2aU5fddgU5WdLaBSaSiObLbZ91.png" alt="Ganesh Chavhan" width="150" height="150" style="border-radius: 50%; border: 4px solid #667eea;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=667eea&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;💡+Problem+Solving+Enthusiast;🤖+Machine+Learning+Explorer;🎓+Computer+Science+Student;✨+Building+the+Future+with+Code!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Problem+Solving+Addict;Always+Learning+Something+New!" alt="Typing SVG" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganesh-Chavhan&label=Profile%20views&color=667eea&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ganesh-Chavhan?label=Followers&style=social" alt="GitHub followers" />
-  <a href="https://www.linkedin.com/in/ganeshchavhan9274/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  
+### 🌟 **Turning Ideas into Digital Reality**
+
+*Passionate Computer Science student crafting innovative solutions*  
+*with modern technologies and creative problem-solving*
+
 </div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ganesh-Chavhan&label=Profile%20Views&color=667eea&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Ganesh-Chavhan?label=Followers&style=for-the-badge&color=667eea&logo=github)](https://github.com/Ganesh-Chavhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshchavhan9274/)
+
+</div>
+
+## 🎯 **Quick Highlights**
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/000000/student-male.png" width="40"/><br>
+<b>🎓 Academic Excellence</b><br>
+<sub>9.17 CGPA • FFE Scholar</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/><br>
+<b>💻 Problem Solver</b><br>
+<sub>350+ Coding Challenges</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="40"/><br>
+<b>🏆 Achiever</b><br>
+<sub>Top 30 National Hackathon</sub>
+</td>
+</tr>
+</table>
 
 ---
 
