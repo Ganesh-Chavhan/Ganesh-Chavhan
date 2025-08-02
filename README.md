@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 🎓 **Computer Science Engineering Student** at **Walchand College of Engineering, Sangli**  
 📊 **CGPA:** 9.17/10.0 (2022-2026)  
@@ -186,14 +186,6 @@
 
 ---
 
-## 📈 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -208,11 +200,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>💭 "Code is like humor. When you have to explain it, it's bad."</h3>
   <p><strong>⭐ Star my repositories if you find them interesting!</strong></p>
   <p><em>Always open to collaborating on exciting projects and innovative ideas! 🚀</em></p>
 </div>
@@ -222,28 +210,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
-```
-
-## 🎨 Customization Instructions:
-
-**To make this README perfect for your profile, please update:**
-
-1. **Replace `yourusername`** with your actual GitHub username in all links
-2. **Update social media links** with your actual LinkedIn and other profiles  
-3. **Add your actual project repository links** in the Featured Projects section
-4. **Update coding profile links** with your actual LeetCode, CodeChef, and GeeksforGeeks profiles
-5. **Add a professional photo** if you want to include one in the header section
-
-## ✨ Features of this README:
-
-- **🎯 Eye-catching animated header** with typing effect
-- **📊 Comprehensive GitHub statistics** and activity graphs  
-- **🛠️ Well-organized tech stack** with colorful badges
-- **🏆 Detailed project showcases** with technology highlights
-- **📈 Achievement timeline** and certifications
-- **💻 Coding profile statistics** in tabular format
-- **🎨 Professional color scheme** with consistent theming
-- **📱 Mobile-responsive design** that looks great on all devices
-- **🔗 Easy navigation** with proper sections and links
-
-This README will definitely make your GitHub profile stand out and showcase your skills, achievements, and personality effectively! 🌟
