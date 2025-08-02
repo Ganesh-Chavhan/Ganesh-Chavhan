@@ -26,10 +26,7 @@
 </div>
 
 <br>
-
-## 🎯 **Quick Highlights**
-
-<div align="center">
+n="center">
 
 <table>
 <tr>
@@ -38,26 +35,9 @@
 <strong>🎓 Academic Excellence</strong><br>
 <sub>9.17 CGPA • FFE Scholar</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/><br>
-<strong>💻 Problem Solver</strong><br>
-<sub>350+ Coding Challenges</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="40"/><br>
-<strong>🏆 Achiever</strong><br>
-<sub>Top 30 National Hackathon</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
----
-
-<br>
 
 ## 🚀 **About Me**
 
