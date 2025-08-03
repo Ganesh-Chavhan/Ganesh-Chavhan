@@ -26,7 +26,6 @@
 </div>
 
 <br>
-n="center">
 
 <table>
 <tr>
