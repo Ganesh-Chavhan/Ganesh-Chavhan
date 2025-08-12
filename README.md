@@ -98,8 +98,6 @@
 ### 🗄️ **Databases & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -136,81 +134,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Chavhan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="900"/>
 
 </div>
-
-<br>
-
----
-
-<br>
-
-## 🏆 **Featured Projects**
-
-<br>
-
-### 🚌 **CrowdSync - Smart Bus Monitoring System**
-
-<div align="center">
-
-[![CrowdSync](https://img.shields.io/badge/🚌_CrowdSync-View_Project-blue?style=for-the-badge)](https://github.com/amitwasnik1906/CrowdSync)
-
-<br>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma"/>
-
-</div>
-
-**🎯 Real-time bus tracking with IoT-based crowd monitoring**
-
-- 📱 Cross-platform mobile app for passengers
-- 🎯 **90%+ accuracy** in crowd detection using Computer Vision
-- 🗺️ Live GPS tracking with OpenRouteService API
-- 👨‍💼 Admin dashboard for route management
-
-<br>
-
-### 🏥 **Diabetes Prediction System**
-
-<div align="center">
-
-[![Diabetes Prediction](https://img.shields.io/badge/🏥_Diabetes_Prediction-View_Project-green?style=for-the-badge)](https://github.com/Ganesh-Chavhan/Diabetes-Prediction-SVM-Practice)
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="Python"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-
-</div>
-
-**🤖 ML-powered healthcare prediction system**
-
-- 📊 **80% accuracy** using SVM classifier
-- 📈 Comprehensive EDA on 768 patient records
-- ⚡ **25% faster** training with optimized preprocessing
-
-<br>
-
-### 🗜️ **Huffman Text Compressor**
-
-<div align="center">
-
-[![Huffman Compressor](https://img.shields.io/badge/🗜️_Huffman_Compressor-View_Project-red?style=for-the-badge)](https://github.com/Ganesh-Chavhan/Huffman-Compression)
-
-<br>
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-
-</div>
-
-**🔧 Efficient lossless text compression tool**
-
-- 📁 Significant file size reduction
-- 🏗️ Clean OOP architecture
-- 💾 Advanced file handling capabilities
 
 <br>
 
@@ -261,6 +184,7 @@
 ### 🏅 **Major Achievements**
 
 🥇 **ADCET Hackathon** - Top 30 teams nationwide  
+🔥 **GATE Qualified** - Rank 10749 
 🎓 **FFE Scholarship** - Academic excellence among 24,000+ students  
 📜 **IBM Certification** - "Getting Started with Git and GitHub"  
 💯 **Wadhwani Foundation** - Core Employability Skills (91% score)  
@@ -273,30 +197,6 @@
 
 <br>
 
-## 🎯 **Leadership & Impact**
-
-<div align="center">
-
-### 🌟 **Leadership Roles**
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/48/000000/conference.png" width="40"/><br><br>
-<strong>Assistant PDD - Rotaract Club</strong><br><br>
-📋 Organized PDMs for 100+ students<br>
-🩸 Led Blood Donation Camps<br>
-🤝 Facilitated networking events<br><br>
-</td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/48/000000/group.png" width="40"/><br><br>
-<strong>Member - ACSES Club</strong><br><br>
-🎪 Tech'human event coordination<br>
-👥 Engaged 200+ participants<br>
-🎯 Event management expertise<br><br>
-</td>
-</tr>
-</table>
 
 ### 🎮 **Beyond Coding**
 
