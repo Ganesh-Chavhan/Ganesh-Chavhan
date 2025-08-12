@@ -37,25 +37,6 @@
 
 <br>
 
-
-## 🚀 **About Me**
-
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-🎓 **B.Tech Computer Science Engineering** at **Walchand College of Engineering, Sangli**  
-
-📊 **CGPA:** 9.17/10.0 (2022-2026)  
-
-🏆 **FFE Scholarship Recipient** - Selected from 24,000+ students  
-
-🥇 **Top 30 Finalist** - ADCET Hackathon (National Level)  
-
-💻 **350+ Problems Solved** across coding platforms  
-
-🌟 **Passionate** about creating impactful solutions through technology  
-
-<br>
-
 ### 🎯 **Current Focus**
 
 - 🔭 Building **Full Stack Applications** with modern technologies
@@ -251,14 +232,6 @@
 <br>
 
 ---
-
-<br>
-
-<div align="center">
-  
-### 💭 **"The best way to predict the future is to create it."**
-
-<br>
 
 ⭐ **Star my repositories if you find them interesting!**
 
