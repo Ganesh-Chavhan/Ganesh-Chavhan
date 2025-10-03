@@ -44,7 +44,6 @@
 - 👯 Open to collaborate on **innovative projects**
 - 💬 Ask me about **Web Development**, **DSA**, **Machine Learning**
 - 📫 Reach me at: **ganesh839274@gmail.com**
-- ⚡ Fun fact: I can solve coding problems while playing **Volleyball**! 🏐
 
 <br>
 
