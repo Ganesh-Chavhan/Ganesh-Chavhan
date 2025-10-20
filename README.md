@@ -130,7 +130,7 @@
 <td align="center" width="300">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50"><br><br>
 <strong>LeetCode</strong><br><br>
-<img src="https://img.shields.io/badge/Solved-150+-orange?style=flat-square&logo=leetcode" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/Solved-300+-orange?style=flat-square&logo=leetcode" alt="LeetCode"/>
 <br>
 <img src="https://img.shields.io/badge/Max_Rating-1661-yellow?style=flat-square" alt="Rating"/>
 <br><br>
