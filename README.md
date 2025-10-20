@@ -163,12 +163,11 @@
 
 ### 🏅 **Major Achievements**
 
-🥇 **ADCET Hackathon** - Top 30 teams nationwide  
-🔥 **GATE Qualified** - Rank 10749 
 🎓 **FFE Scholarship** - Academic excellence among 24,000+ students  
+🔥 **GATE Qualified** - Rank 10749 
 📜 **IBM Certification** - "Getting Started with Git and GitHub"  
 💯 **Wadhwani Foundation** - Core Employability Skills (91% score)  
-🔥 **Problem Solver** - 350+ coding challenges across platforms  
+🔥 **Problem Solver** - 550+ coding challenges across platforms  
 👥 **Team Leader** - 5+ collaborative projects, 30% efficiency improvement  
 
 <br>
